@@ -1,0 +1,14 @@
+Package: trh4ckn0n-tool
+Version: 1.0
+Architecture: all
+Maintainer: trhacknon
+Depends: python3, curl, jq
+Filename: ./trh4ckn0n-tool-pkg.deb
+Size: 2156
+MD5sum: 68e0374372d3293b9c3487df2c884222
+SHA1: 6e827864caefb7b8cddbabb6c11551c1761f4983
+SHA256: ebf678052f78a2970a78d73964524add027c5f7a5e82697062e74d18acf130f0
+Section: base
+Priority: optional
+Description: Toolkit terminal hacker (infos système + GitHub clone) signé trhacknon
+
